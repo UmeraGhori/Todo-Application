@@ -1,0 +1,3 @@
+// sabse phele reducer folder create kye usme create slice ye sb kya or add task and sare task create kare ab in 4 task ko export kya or fir store file create kari usme configure store create kya uske andar reducer add kya or fir usko export kya index.js me or fir provider me store add kya
+
+// ab dispatch krne ke lye todolist me useSelector create kiya and the useDispatch import kya or use call kya fir jaha jaha oncreate and onupdate jese function the unhe comment out kiya or unki jagah apne addTask, addTasks, deleteTasks, updateTasks add kye jaha par wo function me call ho rhe the event me so apn ne dispatch add karke apne task call kye
